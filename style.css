@@ -1,0 +1,25 @@
+body{
+    color: blue;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.portfolio{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+
+}
+h1{
+    color: aqua;
+
+}
+h2{
+    color:brown;
+}
+a{
+    text-decoration:underline;
+}
